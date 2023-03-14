@@ -1,27 +1,15 @@
-.navbar {
-    height: 75px;
-    background-color: rgb(47, 47, 206);
-    display: flex;
-    justify-content: center;
-}
-
-.navContainer {
+.container-fluid {
     width: 100%;
     max-width: 1024px;
-    color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-
-.logo {
-    font-weight: 500;
+#navlink {
+    padding-right: 25px;
 }
 
-.navButton {
-    margin-left: 15px;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
-    color: rgb(8, 74, 112);
+#icon {
+    margin-left: 8px;
+    margin-bottom: 4px;
 }

@@ -1,16 +1,16 @@
 import Header from "../../components/header/Header";
 import Navbar from "../../components/navbar/Navbar";
-import "./about.css";
+import "./services.css";
 
-const About = () => {
+const Services = () => {
     return(
         <>
         <Header />
         <Navbar />
-        <h1>About Page</h1>
+        <h1>Services Page</h1>
         </>
         
     )
 };
 
-export default About;
+export default Services;

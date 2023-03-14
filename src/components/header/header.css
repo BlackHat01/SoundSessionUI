@@ -1,0 +1,29 @@
+.header {
+    height: 75px;
+    background-color: #0C234B;
+    display: flex;
+    justify-content: center;
+}
+
+.headerContainer {
+    width: 100%;
+    max-width: 1024px;
+    color: #F4EDE5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-weight: 500;
+}
+
+#headerBtn {
+    margin-left: 15px;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: #F4EDE5;
+
+}
+
